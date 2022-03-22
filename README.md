@@ -3,6 +3,6 @@
 - Click here to watch the [demo](https://react-router-19b17.web.app/quotes?sort=desc)
 
 ## Features
-- Built with react routes to present client-side rendering.
+- Built with react routes to present multi-page SPA.
 - Use custom hooks to separate the logic of handling http request.
 
